@@ -62,4 +62,4 @@ def messages_augmented(input_csv, output_csv, variants_per_message=4):
     print(f"Total after augmentation: {len(augmented_df)}")
 
 if __name__ == "__main__":
-    messages_augmented("../data/disaster_need_messages.csv", "../data/disaster_need_messages_augmented.csv", variants_per_message=4)
+    messages_augmented("../data/train_original.csv", "../data/train_augmented.csv", variants_per_message=4)
