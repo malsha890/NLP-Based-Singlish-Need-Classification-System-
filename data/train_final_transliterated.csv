@@ -1,0 +1,893 @@
+text,category,source,text_si
+lamayata feveer thiynawa.,medical aid,synthetic,ලමයාට ෆේවීර් තියෙනවා.
+rescue boat ekak ewann.,rescue/missing,synthetic,rescue බෝට් එකක් ෙවන්න.
+flood eka nisa trapped wela.,rescue/missing,original,ෆ්ලෝඩ් එක නිසා trapped වෙලා.
+beheth ganna pharmacy ekata yanna ba.,medical aid,original,බෙහෙත් ගන්න pharmacy එකට යන්න බැ.
+lamai godak innva apt kama parcel tkk ewnn plwnd .,food/water,synthetic,ළමයි ගොඩක් ඉන්නවා අපිට කෑම පරිසෙල් ටිකක් එවන්න පුළුවන්ද.
+ape seeeya missing.,rescue/missing,synthetic,අපේ සීයා මිසිටින්ග්.
+api dan shelter ekak hoyanawa.,shelter,original,අපි දැන් ෂෙල්ටර් එකක් හොයනවා.
+trch batteries onee.,other,synthetic,ට්රිච් batteries ඕනේ.
+kenek waturat gahaagen gihin.,rescue/missing,synthetic,කෙනෙක් වතුරට ගුහාගෙන ගිහින්.
+urgently safe place ekk on.,shelter,synthetic,urgently safe place එක්ක ඕන.
+medhicine saha doctor help one.,medical aid,synthetic,medhicine සහ doctor help one.
+ape gedara damage wela.,shelter,original,අපේ ගෙදර damage වෙලා.
+shelter ekak hoyaganna help one.,shelter,original,ෂෙල්ටර් එකක් හොයාගන්න හවුල් ඕනේ.
+patient kenek stuck wela.,medical aid,original,patient කෙනෙක් ස්ටූක්ක්ක් වෙලා.
+shelther ekak denna puluwandaa?,shelter,synthetic,ෂෙල්ටර් එකක් දෙන්න පුලුවන්ද?
+safe room ekaak one.,shelter,synthetic,safe room එකක් ඕනේ.
+apit dawas dekak kanna na.,food/water,original,අපිට දවස් දෙකක් කන්න නැ.
+drinking water urgently on.,food/water,synthetic,drinking water urgently on.
+watura supply ekaa nawathila.,food/water,synthetic,වතුර පොරොන්දු අකා නැවතිලා.
+information ekak hoyaganna one.,other,synthetic,information එකක් හොයාගන්න ඕනේ.
+watura saha knna tikak one.,food/water,original,වතුර සහ කන්න ටිකක් ඕනේ.
+api upakara baalaporoththu venawa.,rescue/missing,synthetic,අපි උපකාර බලපුතු වෙනව.
+lamayek hoyaaganna help ekk one.,rescue/missing,synthetic,ලමයෙක් හොයාගන්න හවුල් එක්ක ඕනේ.
+shlter ekak thiyenawanam kyanna.,shelter,synthetic,ශල්ටර් එකක් තියෙනවනම් කියන්න.
+canna deyak ne mee gedara.,food/water,synthetic,කන්න දෙයක් නෑ මේ ගෙදර.
+battery charge karaganna b.,other,synthetic,battery charge කරගන්න බැ.
+fuel station open daa?,other,synthetic,fuel station open ද?
+evacuation centr ekata yanna on.,shelter,synthetic,evacuation centr එකට යන්න ඕන.
+kamaa oocm tika iwara wela.,food/water,synthetic,කෑම ඕකොම ටික ඉවර වෙලා.
+"watura godk wedi, rescuee one.",rescue/missing,synthetic,"වතුර ගොඩක් වැඩි, rescuee ඕනේ."
+bonna wtura naa.,food/water,synthetic,බොන්න වතුර නෑ.
+fuel station open da?,other,original,fuel station open ද?
+ape thaththa missing.,rescue/missing,original,අපේ තාත්තා missing.
+shelter ekakata yanna help one.,shelter,original,ෂෙල්ටර් එකකට යන්න හවුල් ඕනේ.
+food relief ekak on.,food/water,synthetic,food relief එකක් ඕන.
+"lamai innawa, safe place one.",shelter,original,"ලමයි ඉන්නවා, safe place one."
+eldrly person knek missing.,rescue/missing,synthetic,eldrly person කෙනෙක් missing.
+ape nangi t medicine one.,medical aid,synthetic,අපේ නංගි ට medicine ඕනේ.
+api roof eke inne.,rescue/missing,original,අපි රෝෆ් එකේ ඉන්නේ.
+baby clothes one.,other,synthetic,baby clothes one.
+medical emrgency ecak.,medical aid,synthetic,medical emrgency ecak.
+ape gedara unsafe wela.,shelter,original,අපේ ගෙදර අපොෆේ වෙලා.
+lamayek hoyaganna help eekk one.,rescue/missing,synthetic,ලමයෙක් හොයාගන්න හවුල් එකක් ඕනේ.
+mge amma ta amarui .ambulance ekk ewnn please.,medical aid,synthetic,මගේ අම්ම ට අමාරුයි.ambulance එක්ක එවන්න please.
+ape gedara patient kenek innawa.,medical aid,original,අපේ ගෙදර patient කෙනෙක් ඉන්නවා.
+buuilding eka inspect caranna one.,other,synthetic,buuilding එක inspect කරන්න ඕනේ.
+ape gedara food na.,food/water,synthetic,අපේ ගෙදර ෆෝඩ් නැ.
+api daan safe placee ekak hoyanawa.,shelter,synthetic,අපි දැන් සාෆේ තැනේ එකක් හොයනවා.
+medicine tikak hoyganna ba.,medical aid,synthetic,medicine ටිකක් හොයාගන්න බැ.
+shelter suppoort on.,shelter,synthetic,ෂෙල්ටර් සුපුපුර්ට ඕන.
+elderly kenekta help one.,medical aid,original,elderly කෙනෙක්ට help ඕනේ.
+ape house eca collapse wennaa wage.,shelter,synthetic,අපේ ගෙදර ඒකා කොල්ලපස්සේ වෙන්න වගේ.
+water tank eka damage wela.,food/water,original,water tank එක damage වෙලා.
+"api stuck weela, heelp karanna.",rescue/missing,synthetic,"අපි ස්ටූක්ක්ක් වේලා, ජාලප් කරන්න."
+medhicine nathi nisa amarui.,medical aid,synthetic,මැඩීකිනේ නැති නිසා අමාරුයි.
+medical support eck one please.,medical aid,synthetic,medical support eck one please.
+road clearance help one.,other,original,road clearance help one.
+me area ekata yannaa puluwanda?,other,synthetic,මේ area එකට යන්න පුලුවන්ද?
+ape phone charge karanna ba.,other,original,අපේ Phone charge කරන්න බැ.
+safe shlter ekak thiyenawada?,shelter,synthetic,සාෆේ ෂිල්ටර් එකක් තියෙනවද?
+gedaraa athule 5 denek innawa.,rescue/missing,synthetic,ගෙදර ඇතුලේ 5 දෙනෙක් ඉන්නවා.
+road eka block welaa.,other,synthetic,රෝඩ් එක බ්ලූක් වෙලා.
+transport ekak one.,other,original,transport එකක් ඕනේ.
+torch baatteries one.,other,synthetic,torch baatteries one.
+medicine saha doctor help one.,medical aid,original,medicine සහ doctor help one.
+sfe drinking water one.,food/water,synthetic,sfe drinking water one.
+api building roof ek inne.,rescue/missing,synthetic,අපි building roof එක ඉන්නේ.
+ape gedara athule dhanger.,shelter,synthetic,අපේ ගෙදර ඇතුලේ ඩැන්ජර්.
+coking karanna ba.,other,synthetic,කෝකින්ග් කරන්න බැ.
+hospital transport one.,medical aid,original,hospital transport one.
+mg gedara kenek unconscious wel.,medical aid,synthetic,මගෙ ගෙදර කෙනෙක් unconscious වෙලා.
+torch batteries one.,other,original,torch batteries one.
+petrol hoyagaanna ba.,other,synthetic,පීරන් හොයාගන්න බැ.
+beheth ganna pharmacy ekata yanna ba.,medical aid,synthetic,බෙහෙත් ගන්න pharmacy එකට යන්න බැ.
+night eka innata placee ne.,shelter,synthetic,නයිට් එක ඉන්නට තැනේ නෑ.
+kanna food tikak hoyala dnna.,food/water,synthetic,කන්න ෆෝඩ් ටිකක් හොයලා දෙන්න.
+food ekk aran enna puluwandha?,food/water,synthetic,ෆෝඩ් එක්ක අරන් එන්න පුලුවන්ද?
+miissing person kenek hoyanwa.,rescue/missing,synthetic,මිස්සින්ගෙ පින්තූර කෙනෙක් හොයනවා.
+"old people innawa, safe place one.",shelter,synthetic,"old people ඉන්නවා, safe place one."
+roadh condition eka dannwada?,other,synthetic,රෝද condition එක දන්නවද?
+gedaraa athule aya beragnn udauu krnna .,rescue/missing,synthetic,ගෙදර ඇතුලේ අය බේරගන්න උදූ කරන්න.
+gedara aathule 5 denek innawa.,rescue/missing,synthetic,ගෙදර ඇතුලේ 5 දෙනෙක් ඉන්නවා.
+tree ekak roadh eka uda watila.,other,synthetic,ට්රේඩ් එකක් රෝඩ් එක උඩ වැටිලා.
+ap food nathiwa innee.,food/water,synthetic,අපි ෆෝඩ් නැතිව ඉන්නේ.
+"aapi 6 denek inne, kama one.",food/water,synthetic,"ආපි 6 දෙනෙක් ඉන්නේ, කම ඕනේ."
+water bottle ekaak wath ne.,food/water,synthetic,water bottle එකක් වත් නෑ.
+apit knna bonna dewal ne.,food/water,synthetic,අපිට කන්න බොන්න දේවල් නෑ.
+safe shelteer ekak thiyenawada?,shelter,synthetic,සෆේ ෂැල්ටෙර් එකක් තියෙනවද?
+ape nangi ta medicine on.,medical aid,synthetic,අපේ නංගි ට medicine ඕනෙ.
+mobile signal hoyaganna ba.,other,synthetic,mobile signal හොයාගන්න බැ.
+baby kenek sick wela innwa .,medical aid,synthetic,baby කෙනෙක් sick වෙලා ඉන්නවා.
+arakshitha kandaurat ynnaa transport on.,shelter,synthetic,ආරක්ෂිත කඳුරට යන්න transport on.
+waatura ganna widihak ne.,food/water,synthetic,වතුර ගන්න විදිහක් නෑ.
+gedara watura purila.,shelter,original,ගෙදර වතුර පිරිලා.
+ape nangi ta medicine one.,medical aid,synthetic,අපේ නංගි ට medicine ඕනේ.
+rescue vehicle ekak one.,rescue/missing,original,rescue vehicle එකක් ඕනේ.
+mobile signl hoyaganna ba.,other,synthetic,mobile සිග්නල් හොයාගන්න බැ.
+flaashlight ekak one.,other,synthetic,ෆ්ලෑෂ්ලයිට් එකක් ඕනේ.
+missing child kenek hoyanawa.,rescue/missing,original,missing child කෙනෙක් හොයනවා.
+food supplies onee urgently.,food/water,synthetic,food supplies ඕනේ urgently.
+rescue help dnna puluwanda?,rescue/missing,synthetic,rescue help දෙන්න පුලුවන්ද?
+ambulance ekak ewanna plese.,medical aid,synthetic,ඔම්බුලන්ස් එකක් එවන්න පොලිසේ.
+api evacuathe karanna one.,rescue/missing,synthetic,අපි ඒවකුතේ කරන්න ඕනේ.
+please medical tam ekak hoyala denna.,medical aid,synthetic,please medical තාම එකක් හොයලා දෙන්න.
+mobile signal hoyaganna ba.,other,original,mobile signal හොයාගන්න බැ.
+beheth iwara wela.,medical aid,original,බෙහෙත් ඉවර වෙලා.
+missng person keneek hoyanawa.,rescue/missing,synthetic,මිස්සන්ගෙ පෞද්ගලික කෙනෙකු හොයනවා.
+ape seeya missing.,rescue/missing,original,අපේ සීයා මිසිටින්ග්.
+cenek hoyaganna ba dan.,rescue/missing,synthetic,චෙනෙක් හොයාගන්න බැ දැන්.
+kanna foood tiikak hoyala denna.,food/water,synthetic,කන්න ෆූඩොඩ් ටිකක් හොයලා දෙන්න.
+communicatiion centher ekak thiyenawada?,other,synthetic,communicatiion centher එකක් තියෙනවද?
+drinking water urgently one.,food/water,original,drinking water urgently one.
+shelter ekak thiyenawanam kiyanna.,shelter,original,ෂෙල්ටර් එකක් තියෙනවනම් කියන්න.
+aape gedara atule danger.,shelter,synthetic,ආපු ගෙදර ඇතුලේ ඩිංගර්.
+please me tanata help ekak denna.,other,synthetic,please මේ තැනට හවුල් එකක් දෙන්න.
+road eca block wela.,other,synthetic,road eca block වෙලා.
+shelter eekakata yanna help one.,shelter,synthetic,ෂෙල්ටර් ඒකට යන්න හවුල් ඕනේ.
+medical team ekak ewnna puluwanda?,medical aid,synthetic,medical team එකක් එවන්න පුලුවන්ද?
+ape family ekata inna place ekak one.,shelter,original,අපේ පවුල එකට ඉන්න place එකක් ඕනේ.
+ape gedara food na.,food/water,original,අපේ ගෙදර ෆෝඩ් නැ.
+ape area eke inn arakshitha thanak ne.,shelter,original,අපේ area එකේ ඉන්න ආරක්ෂිත තැනක් නෑ.
+foood ekak aran enn puluwanda?,food/water,synthetic,ෆෝඩ් එකක් අරන් එන්න පුලුවන්ද?
+lamayaata fver thiyenawa.,medical aid,synthetic,ලමයාට ෆුවර් තියෙනවා.
+apee nangi hoyaganna ba.,rescue/missing,synthetic,අපේ නංගි හොයාගන්න බැ.
+ape family ekata inna place ekk one.,shelter,synthetic,අපේ පවුල එකට ඉන්න place එක්ක ඕනේ.
+house eka clean karanna help one.,other,original,house එක clean කරන්න help one.
+water pump eka wada ne.,other,synthetic,water pump එක වඩා නෑ.
+ape family members trapped wela.,rescue/missing,original,අපේ family members trapped වෙලා.
+road eeka open d?,other,synthetic,රෝඩ් ඒක open ද?
+kanna food tikaak hoyala denna.,food/water,synthetic,කන්න ෆෝඩ් ටිකක් හොයලා දෙන්න.
+night eka innata place ne.,shelter,original,නයිට් එක ඉන්නට place නෑ.
+medhical officer kenek one.,medical aid,synthetic,medhical officer කෙනෙක් ඕනේ.
+bloood one urgent pleasee.,medical aid,synthetic,බ්ලූඩ් ඕනේ urgent pleasee.
+rescuue boat ekak onee.,rescue/missing,synthetic,rescuue bot එකක් ඕනේ.
+clothes thikak on.,other,synthetic,clothes ටිකක් ඕන.
+aape gedara athuule danger.,shelter,synthetic,ආපු ගෙදර ඇතුලේ ඩිංගර්.
+medical officer kenek one.,medical aid,original,medical officer කෙනෙක් ඕනේ.
+apit viyali ahara ewnn .,food/water,original,අපිට වියලි ආහාර එවන්න.
+missing kenek gen informathion thiyenawada?,rescue/missing,synthetic,missing කෙනෙක් ගැන informathion තියෙනවද?
+"watura godak wedi, resce onee.",rescue/missing,synthetic,"වතුර ගොඩක් වැඩි, resce ඕනේ."
+ape amma hoy gnn ba.,rescue/missing,original,අපේ අම්ම හොය ගන්න බැ.
+road eka cler karanna help one.,other,synthetic,රෝඩ් එක cler කරන්න help one.
+information ekak hoyaganna onee.,other,synthetic,information එකක් හොයාගන්න ඕනේ.
+meedical help urgntly one.,medical aid,synthetic,මේඩිකල් හවුල් උර්ගන්තලයි ඕනේ.
+phone charge karaganna plake ekak on.,other,synthetic,Phone charge කරගන්න පොළකේ එකක් ඕන.
+doctor kenek contact karanna one.,medical aid,original,ඩොක්ටර් කෙනෙක් contact කරන්න ඕනේ.
+food relief centr eka koheda?,food/water,synthetic,food relief centr එක කොහෙද?
+cooking karann baa.,other,synthetic,cooking කරන්න බෑ.
+shelter ekakaata yanna help one.,shelter,synthetic,ෂෙල්ටර් එකකට යන්න හවුල් ඕනේ.
+shelter ekata famiily eka aran yanna.,shelter,synthetic,ෂෙල්ටර් එකට ෆැමියුලයි එක අරන් යන්න.
+kids laa hungry inne.,food/water,synthetic,kids ලා හංගිරය ඉන්නේ.
+road eka cleear karanna help one.,other,synthetic,රෝඩ් එක ක්ලෙයර් කරන්න help ඕනේ.
+apee nangii ta medicine one.,medical aid,synthetic,අපේ නංගි ට medicine ඕනේ.
+road eka open da?,other,original,රෝඩ් එක open ද?
+patient kenekta immediat help one.,medical aid,synthetic,patient කෙනෙක්ට immediat help one.
+please resce karanna.,rescue/missing,synthetic,please resce කරන්න.
+phone charge caraganna plac ekak one.,other,synthetic,phone charge කරගන්න plas එකක් ඕනේ.
+ape phone charge caranna ba.,other,synthetic,අපේ Phone charge කරන්න බැ.
+beheth ivara weela.,medical aid,synthetic,බෙහෙත් ඉවර වෙලා.
+ptient kenekta medicine n.,medical aid,synthetic,පැත්තෙන් කෙනෙක්ට medicine නැ.
+lamayk hoyagann help ekk one.,rescue/missing,synthetic,ලමයෙක් හොයාගන්න හයිල් එකක් ඕනේ.
+rice saha water one.,food/water,synthetic,රිසි සහ වතුර ඕනේ.
+"patient kenek innawa, medicl help one.",medical aid,synthetic,"patient කෙනෙක් ඉන්නවා, medicl help one."
+baby kenek sick wela innwaa .,medical aid,synthetic,baby කෙනෙක් sick වෙලා ඉන්නවා.
+candhles tikak one.,other,synthetic,candhles ටිකක් ඕනේ.
+transport ekk one.,other,synthetic,transport එක්ක ඕනේ.
+watura sha knna thikak one.,food/water,synthetic,වතුර සහ කන්න ටිකක් ඕනේ.
+ape family ekata inna plaace ekak one.,shelter,synthetic,අපේ පවුල එකට ඉන්න plaace එකක් ඕනේ.
+api upakara balaporoththu wenawa.,rescue/missing,original,අපි උපකාර බලාපොරොත්තු වෙනවා.
+evacuation center ekata yanna on.,shelter,synthetic,evacuation center එකට යන්න ඕන.
+drinking water nathiwa iinne.,food/water,synthetic,drinking water නැතිව ඉන්නෙ.
+medical support eck one please.,medical aid,synthetic,medical support eck one please.
+rescue help denna puluwanda?,rescue/missing,original,rescue help දෙන්න පුලුවන්ද?
+family membersla dennek missing.,rescue/missing,original,family membersla දෙන්නෙක් missing.
+injured keneek innawa me gedhara.,medical aid,synthetic,ඉන්ජුරේඩ් කෙනෙකු ඉන්නවා මේ ගෙදර.
+food relief eekak on.,food/water,synthetic,food relief ඒකක ඕන.
+ape area ekt viyali ahra ewnn plwnd .,food/water,synthetic,අපේ area එකට වියලි ආහාර එවන්න පුලුවන්ද.
+"lamai innaawa, safe plaace one.",shelter,synthetic,"ළමයි ඉන්නවා, safe plaace one."
+apii food natiwa inne.,food/water,synthetic,අපේ ෆෝඩ් නැතිව ඉන්නේ.
+geedara thyenna ba.,shelter,synthetic,ගේදර තියෙන්න බෑ.
+mge amma ta amarui .ambulance ekk ewnn pleease.,medical aid,synthetic,මගේ අම්ම ට අමාරුයි.ambulance එක්ක එවන්න පොලීසේ.
+ape family ece kenekta medical help one.,medical aid,synthetic,අපේ family ece කෙනෙක්ට medical help one.
+safe shelter ekak tiyenawada?,shelter,synthetic,සාෆේ ෂෙල්ටර් එකක් තියෙනවද?
+drinkiing water supply karanna.,food/water,synthetic,drinkiing water supply කරන්න.
+kamaa ookm tika iwara wel.,food/water,synthetic,කමා ඕකම ටික ඉවර වෙලා.
+evacuatin center ekatha yanna one.,shelter,synthetic,evacuatin center එකට යන්න ඕනේ.
+ape brother missing welaa.,rescue/missing,synthetic,අපේ brother missing වෙලා.
+rooad eka clear karanna help one.,other,synthetic,රෝඩ් එක clear කරන්න help one.
+ap family ekata inna place ekak one.,shelter,synthetic,අපි පවුල එකට ඉන්න place එකක් ඕනේ.
+rescue bat ekak ewanna.,rescue/missing,synthetic,rescue බැට් එකක් එවන්න.
+rescue veehicle ekak one.,rescue/missing,synthetic,rescue veehicle එකක් ඕනේ.
+lamayek hoyaganna help ekk one.,rescue/missing,synthetic,ලමයෙක් හොයාගන්න හයිල් එකක් ඕනේ.
+ape area ekata dry raations on.,food/water,synthetic,අපේ area එකට dry raations on.
+ape taththa missiing.,rescue/missing,synthetic,අපේ තාත්තා මිස්සීං.
+me area eke situation eka kohomada?,other,original,මේ area එකේ situation එක කොහොමද?
+kama ookm tika iwara wela.,food/water,original,කෑම ඕකම ටික ඉවර වෙලා.
+ricee tiikak hari ewanna.,food/water,synthetic,රිසී ටිකක් හරි එවන්න.
+roaad eka breac wela.,other,synthetic,රෝඩ් එක breac වෙලා.
+kenek watura gihin missng.,rescue/missing,synthetic,කෙනෙක් වතුර ගිහින් මිස්සන්ගෙ.
+"patient kenek innawa, medical help one.",medical aid,synthetic,"patient කෙනෙක් ඉන්නවා, medical help one."
+safe place ekak one please api yaata wel.,shelter,synthetic,safe place එකක් ඕනේ please අපි යාත වෙලා.
+"lamai innava, safe place oone.",shelter,synthetic,"ලමයි ඉන්නවා, safe place ඕනේ."
+bonna watura na.,food/water,original,බොන්න වතුර නෑ.
+sanitry items one.,other,synthetic,sanitry items one.
+cenek watura gihin missing.,rescue/missing,synthetic,චෙනෙක් වතුර ගිහින් මිසිටින්ග්.
+hosptal transport on.,medical aid,synthetic,hosptal transport on.
+api uupakara balaporoththu wenawa.,rescue/missing,synthetic,අපි උපාකාර බලාපොරොත්තු වෙනවා.
+cenek missing wela.,rescue/missing,synthetic,චෙනෙක් මිස්සින්ගෙ වෙලා.
+safe plaace ekak hoyala denn.,shelter,synthetic,safe plaace එකක් හොයලා දෙන්න.
+lamayata fever thiyenawa.,medical aid,original,ලමයාට ෆේවර් තියෙනවා.
+safe place ekakatha yanna help karanna.,shelter,synthetic,safe place එකකතා යන්න help කරන්න.
+lamai godak innwa apit kama parcel tkk ewnn plwnd .,food/water,original,ළමයි ගොඩක් ඉන්නවා අපිට කෑම පරිසෙල් ටිකක් එවන්න පුළුවන්ද.
+kenek watura gihn missing.,rescue/missing,synthetic,කෙනෙක් වතුර ගිහින් මස්සින්ගෙ.
+thuwal una aya innava.,medical aid,synthetic,තුවාල උණ එයා ඉන්නවා.
+gedaara watura purila.,shelter,synthetic,ගෙදර වතුර පිරිලා.
+arakshithaa kandaurat ynna transport one.,shelter,synthetic,ආරක්ෂිත කඳුරට යන්න transport ඕනේ.
+please medical theam ekak hoyala denna.,medical aid,synthetic,please medical theam එකක් හොයලා දෙන්න.
+rescue boat ekak ewann.,rescue/missing,synthetic,rescue බෝට් එකක් ෙවන්න.
+ambulance ecak ewanna pleasee.,medical aid,synthetic,ambulance ecak eවන්න pleasee.
+food and clean water help on.,food/water,synthetic,food and clean water help on.
+apit viyalii ahara ewnn .,food/water,synthetic,අපිට වියලී ආහාර එවන්න.
+phone charge karaganna place ekak one.,other,original,phone charge කරගන්න place එකක් ඕනේ.
+apit arakshita thankt yann one.,shelter,synthetic,අපිට ආරක්ෂිත තැනකට යන්න ඕනේ.
+medical help urgenthly one.,medical aid,synthetic,medical help urgenthly one.
+nighth eka innata place ne.,shelter,synthetic,නයිට් එක ඉන්නට place නෑ.
+ambulance ekaak ewanna please.,medical aid,synthetic,ambulance එකක් එවන්න please.
+cloothes tikak one.,other,synthetic,chloothes ටිකක් ඕනේ.
+medhical eemergency ekak.,medical aid,synthetic,medhical eemergency එකක්.
+road eeka brek wela.,other,synthetic,රෝඩ් ඒක බ්රැක් වෙලා.
+apit kanna bonna dhewal ne.,food/water,synthetic,අපිට කන්න බොන්න දේවල් නෑ.
+phonee battery low.,other,synthetic,Phonee battery low.
+medical team ekak one me area ekata.,medical aid,original,medical team එකක් ඕනේ මේ area එකට.
+kenek missing wela.,rescue/missing,original,කෙනෙක් මිස්සින්ගෙ වෙලා.
+food relief center eka koheda?,food/water,original,food relief center එක කොහෙද?
+safe building ekak hoyanna one.,shelter,original,safe building එකක් හොයන්න ඕනේ.
+doctor cenek ikmanata one.,medical aid,synthetic,ඩොක්ටර් සීනේක් ඉක්මනට ඕනේ.
+medicine nathii nisa amaru.,medical aid,synthetic,medicine නැති නිසා අමාරු.
+shelter ekak open karalada?,shelter,synthetic,ෂෙල්ටර් එකක් open කරලද?
+safe place ekak hoyala denna.,shelter,original,safe place එකක් හොයලා දෙන්න.
+rescue teaam eka me paththe enawada?,rescue/missing,synthetic,rescue team එක මේ පැත්තේ එනවද?
+please medical teeam ekak hoyal denna.,medical aid,synthetic,please medical ටීඑම් එකක් හොයල දෙන්න.
+battry charge karaganna b.,other,synthetic,battry charge කරගන්න බැ.
+baby ta mediciine one.,medical aid,synthetic,baby ට mediciine ඕනේ.
+"rice, dhal saha watr oone.",food/water,synthetic,"රිසි, දළ සහ වතුර ඕනේ."
+phone charge karaganna plce ekak one.,other,synthetic,Phone charge කරගන්න plce එකක් ඕනේ.
+water supply eka ne.,food/water,original,water supply එක නෑ.
+baby ta medicine on.,medical aid,synthetic,baby ta medicine on.
+chiild kenek mssing.,rescue/missing,synthetic,චීල්ඩ් කෙනෙක් මස්සින්ගෙ.
+safe building ekak one immediately.,shelter,synthetic,safe building එකක් one immediately.
+main roadh eca waturat yata wel.,other,synthetic,මයින් රෝඩ් ඒක වතුරට යට වෙලා.
+geedara atule aya innawa.,rescue/missing,synthetic,ගේදර ඇතුලේ අය ඉන්නවා.
+eldherly person kenek missing.,rescue/missing,synthetic,eldherly person කෙනෙක් missing.
+lamaya school idala aw ne.,rescue/missing,synthetic,ළමයා school ඉදලා ආව නේ.
+food supplies tikak one.,food/water,synthetic,food supplies ටිකක් ඕනේ.
+fod supplies one urgently.,food/water,synthetic,fod supplies one urgently.
+beheth ganna phaarmacy ekata yanna ba.,medical aid,synthetic,බෙහෙත් ගන්න pharmacy එකට යන්න බැ.
+phone kharge karaganna place ekak oone.,other,synthetic,Phone කොහර්ගේ කරගන්න place එකක් ඕනේ.
+uurgently safe place ekk one.,shelter,synthetic,uurgently safe place එක්ක ඕනේ.
+watura bttle tikaak one.,food/water,synthetic,වතුර බිට්ටලේ ටිකක් ඕනේ.
+water pump eka wda ne.,other,synthetic,water pump එක වඩා නෑ.
+medical support ekk one please.,medical aid,original,medical support එක්ක one please.
+safe plaace ekak on please api yata wel.,shelter,synthetic,safe plaace එකක් on please අපි යට වෙලා.
+current ek ikmanata dhenna.,other,synthetic,current එක ඉක්මනට දෙන්න.
+eldeerly kenekta help one.,medical aid,synthetic,ඩොඩීර්ලයි කෙනෙක්ට help ඕනේ.
+evacuation center ekata yanna one.,shelter,original,evacuation center එකට යන්න ඕනේ.
+transport hlp oone.,other,synthetic,transport හොළපු ඕනේ.
+apit arakshita thankt yanna one.,shelter,synthetic,අපිට ආරක්ෂිත තැනකට යන්න ඕනේ.
+clean water one pleaase.,food/water,synthetic,clean water one playase.
+missing person kenek hoyanawa.,rescue/missing,original,missing person කෙනෙක් හොයනවා.
+medhicine tkak hoyaganna ba.,medical aid,synthetic,මැඩීකිනේ ටිකක් හොයාගන්න බැ.
+coooking karanna ba.,other,synthetic,කෝකීං කරන්න බැ.
+tree tika ain karanna oone.,other,synthetic,ට්රේ ටික අයින් කරන්න ඕනේ.
+please rescue karanna.,rescue/missing,original,please rescue කරන්න.
+food ekak arn enna puluwandha?,food/water,synthetic,ෆෝඩ් එකක් අරන් එන්න පුලුවන්ද?
+rscue tem ekak ewanna please.,rescue/missing,synthetic,rscue them එකක් එවන්න please.
+please medical team ekak hoyala denna.,medical aid,original,please medical team එකක් හොයලා දෙන්න.
+safe shelter ekak thiyenawada?,shelter,original,සාෆේ ෂෙල්ටර් එකක් තියෙනවද?
+ape puta hoyaganna one.,rescue/missing,synthetic,අපේ පුතා හොයාගන්න ඕනේ.
+doctor kenek ikmanat one.,medical aid,synthetic,ඩොක්ටර් කෙනෙක් ඉක්මනට ඕනේ.
+family ekata teemporary plaace one.,shelter,synthetic,family එකට teemporary plaace one.
+sick patient cenek rescue karanna onee.,medical aid,synthetic,sick patient cenek rescue කරන්න ඕනේ.
+me ara eke reskue team ekak one.,rescue/missing,synthetic,මේ අර එකේ රැස්කුවේ team එකක් ඕනේ.
+missing childh kenek hoyanawa.,rescue/missing,synthetic,missing childh කෙනෙක් හොයනවා.
+watura supply eka nawathila.,food/water,original,වතුර පොරොන්දු ඒක නැවතිලා.
+pathient kenektha medicine ne.,medical aid,synthetic,පතීන්ට කෙනෙක්ට medicine නෑ.
+communication center ekak thiyeenawada?,other,synthetic,communication center එකක් තියෙනවද?
+lamaya school idala awe ne.,rescue/missing,synthetic,ළමයා school ඉදලා ආවේ නැ.
+knek hoyaganna baa dan.,rescue/missing,synthetic,කෙනෙක් හොයාගන්න බෑ දැන්.
+me aarea eke situation eca kohomada?,other,synthetic,මේ ආරේ එකේ situation eca කොහොමද?
+gedara athule wayasaka kenek innawa.,rescue/missing,original,ගෙදර ඇතුලේ වයසක කෙනෙක් ඉන්නවා.
+water supply eka nee.,food/water,synthetic,water supply එක නේ.
+clean wter oone please.,food/water,synthetic,clean wter oone please.
+water tank eeka damage wela.,food/water,synthetic,water tank ඒක damage වෙලා.
+temporary shelter ekak on.,shelter,synthetic,temporary shelter එකක් ඕන.
+ricee saha water one.,food/water,synthetic,රිසී සහ water ඕනේ.
+electricity supply eeka nathi wela.,other,synthetic,electricity supply ඒක නැති වෙලා.
+medicine tikak hoyaganna ba.,medical aid,original,medicine ටිකක් හොයාගන්න බැ.
+baby cloths oone.,other,synthetic,baby clothhs ඕනේ.
+main road eka waturat yata wel.,other,original,main road එක වතුරට යට වෙලා.
+food one please.,food/water,original,food one please.
+thuwal una aya innawaa.,medical aid,synthetic,තුවාල උණ එයා ඉන්නවා.
+gedara aathule aya innava.,rescue/missing,synthetic,ගෙදර ඇතුලේ අය ඉන්නවා.
+api daan shelter ecak hoyanawa.,shelter,synthetic,අපි දැන් ෂෙල්ටර් එකක හොයනවා.
+please rescue karaanna.,rescue/missing,synthetic,please rescue කරන්න.
+doctr kenek me paththata one.,medical aid,synthetic,ඩොක්ටර් කෙනෙක් මේ පැත්තට ඕනේ.
+gedhara roof eka damage wela.,shelter,synthetic,ගෙදර රෝෆ් එක damage වෙලා.
+blankets tikak one.,other,original,blankets ටිකක් ඕනේ.
+wter supply eka n.,food/water,synthetic,wter supply එක නැ.
+current eka ikmanata denna.,other,original,current එක ඉක්මනට දෙන්න.
+ape house eka collapse wenna wage.,shelter,original,අපේ ගෙදර එක කොල්ලපස්සේ වෙන්න වගේ.
+gedaara roof eka damage wela.,shelter,synthetic,ගෙදර රෝෆ් එක damage වෙලා.
+elderly kenekta help one.,medical aid,synthetic,elderly කෙනෙක්ට help ඕනේ.
+patient kenekta meedicine ne.,medical aid,synthetic,patient කෙනෙක්ට මේඩීකිනේ නෑ.
+me thanata ambulanc ekak ewanna.,medical aid,synthetic,මේ තැනට අම්බුලන්ක් එකක් එවන්න.
+ape family ekee siick aya innawa.,medical aid,synthetic,අපේ පවුල එකේ සියික් එයා ඉන්නවා.
+me are eke rescue team ekak one.,rescue/missing,synthetic,මේ are එකේ rescue team එකක් ඕනේ.
+current eka ne me are eke.,other,synthetic,current එක නෑ මේ are එකේ.
+safe plake ekakata yanna help karanna.,shelter,synthetic,සෆේ ප්ලකේ එකකට යන්න හවුල් කරන්න.
+apt kanna bonna dewal ne.,food/water,synthetic,අපිට කන්න බොන්න දේවල් නෑ.
+communication ceenter ekak thiyenawada?,other,synthetic,communication ceenter එකක් තියෙනවද?
+ape gedaraa damage wela.,shelter,synthetic,අපේ ගෙදර damage වෙලා.
+candles tikak on.,other,synthetic,candles ටිකක් ඕන.
+ape gedara water ne.,food/water,original,අපේ ගෙදර වතුර නෑ.
+clean water awailable da?,food/water,synthetic,clean water awailable ද?
+medical officeer kenek on.,medical aid,synthetic,medical officeer කෙනෙක් ඕන.
+aape nangi thama awe na.,rescue/missing,synthetic,ආපු නංගි තාම ආවේ නැ.
+missing kenek gena information thiyenawada?,rescue/missing,original,missing කෙනෙක් ගැන information තියෙනවද?
+ape putha thuwala wela.,medical aid,original,අපේ පුතා තුවාල වෙලා.
+ape taththa missing.,rescue/missing,synthetic,අපේ තාත්තා missing.
+ape gedara patient kenek innava.,medical aid,synthetic,අපේ ගෙදර patient කෙනෙක් ඉන්නවා.
+driinking water natiwa inne.,food/water,synthetic,දිරිනිකින්ගෙ වතුර නැතිව ඉන්නේ.
+baby food one urgent.,food/water,synthetic,baby food one urgent.
+baby clothes on.,other,synthetic,baby clothes on.
+missing chld kenek hoyanawa.,rescue/missing,synthetic,මිස්සින්ගෙ චාලිඩ් කෙනෙක් හොයනවා.
+floded area eke stuck wela.,rescue/missing,synthetic,floded area එකේ stuck වෙලා.
+drinking wateer hoyaganna ba.,food/water,synthetic,Drinking වතේර් හොයාගන්න බැ.
+medhical team ekak ewanna puuluwanda?,medical aid,synthetic,medhical team එකක් එවන්න පුලුවන්ද?
+mgee gedara knek unconscious wela.,medical aid,synthetic,මගේ ගෙදර කෙනෙක් unconscious වෙලා.
+please seend rscue team.,rescue/missing,synthetic,please seend rscue team.
+flashlighth eekak one.,other,synthetic,flashlight ඒකක ඕනේ.
+kenek watuurat gahagen gihin.,rescue/missing,synthetic,කෙනෙක් උඹවරට ගහගෙන ගිහින්.
+rain eka nisa shlter one.,shelter,synthetic,රයන් එක නිසා ෂිල්ටර් ඕනේ.
+ape family eka homeless wela.,shelter,original,අපේ පවුල එක homeless වෙලා.
+drinking water urgently oone.,food/water,synthetic,drinking water urgently ඕනේ.
+ape putha tuwala wela.,medical aid,synthetic,අපේ පුතා තුවාල වෙලා.
+baaby t medicine one.,medical aid,synthetic,බායි ටි medicine ඕනේ.
+gas cylinder eka na.,other,original,ගස් cylinder එක නෑ.
+ape thththa missing.,rescue/missing,synthetic,අපේ තාත්තා missing.
+apith arakshitha thankt yanna one.,shelter,synthetic,අපිත් ආරක්ෂිත තැනකට යන්න ඕනේ.
+apii building roof eke inne.,rescue/missing,synthetic,අපේ building roof එකේ ඉන්නේ.
+plase rescue karann.,rescue/missing,synthetic,පලාසේ rescue කරන්න.
+apit viyli ahara ewnn .,food/water,synthetic,අපිට වියලි ආහාර එවන්න.
+sick patient kenek resce karanna on.,medical aid,synthetic,sick patient කෙනෙක් resce කරන්න ඕන.
+candles tkak one.,other,synthetic,candles ටිකක් ඕනේ.
+thuwal un aya innawa.,medical aid,synthetic,තුවාල උන් එයා ඉන්නවා.
+doctor kenek contact karanna oone.,medical aid,synthetic,ඩොක්ටර් කෙනෙක් contact කරන්න ඕනේ.
+kaama ookm tika iwara weela.,food/water,synthetic,කෑම ඕකම ටික ඉවර වෙලා.
+please me thanaata help ekak denna.,other,synthetic,please me thanaata help එකක් දෙන්න.
+rice saha water one.,food/water,original,රිසි සහ වතුර ඕනේ.
+medical help urgently one.,medical aid,original,medical help urgently one.
+sanitary items on.,other,synthetic,සින්තරය items on.
+ape nangii hyaganna ba.,rescue/missing,synthetic,අපේ නංගි හොයාගන්න බැ.
+mdical officer cenek one.,medical aid,synthetic,mdical officer cenek one.
+food on plese.,food/water,synthetic,food on plese.
+chld kenek missing.,rescue/missing,synthetic,චිල්ඩ් කෙනෙක් මයිසින්ග්.
+patient knek sthuck wela.,medical aid,synthetic,patient කෙනෙක් සතුටක් වෙලා.
+child cenek missing.,rescue/missing,synthetic,child cenek missing.
+kenek waturat gahagen ghin.,rescue/missing,synthetic,කෙනෙක් වතුරට ගහගෙන ගිහින්.
+phone battery low.,other,synthetic,phone battery low.
+gedara athule wayasak kenek innawa.,rescue/missing,synthetic,ගෙදර ඇතුලේ වයසක කෙනෙක් ඉන්නවා.
+child kenek missing.,rescue/missing,original,child කෙනෙක් missing.
+"old people innawa, sfe place one.",shelter,synthetic,"old people ඉන්නවා, sfe place one."
+me pattha dangerous daa?,other,synthetic,මේ පැත්ත dangerous ද?
+thuwala walata bandge one.,medical aid,synthetic,තුවාල වලට බැඳගේ ඕනේ.
+transport heelp one.,other,synthetic,transport help one.
+rice tikak hari ewanna.,food/water,original,රිස් ටිකක් හරි එවන්න.
+"ape gedarata watura gihin, ikmnt apiiwa beragnn enn .",shelter,synthetic,"අපේ ගෙදරට වතුර ගිහින්, ඉක්මනට අපීව බේරගන්න එන්න."
+doctor kenk me paththaata one.,medical aid,synthetic,ඩොක්ටර් කෙනෙක් මේ පැත්තට ඕනේ.
+kenek waturat gahagen gihin.,rescue/missing,original,කෙනෙක් වතුරට ගහගෙන ගිහින්.
+ape area ece inn arakshitha thanak ne.,shelter,synthetic,අපේ area ece ඉන්න ආරක්ෂිත තැනක් නෑ.
+rescue boat ekk on.,rescue/missing,synthetic,rescue bot එක්ක ඕන.
+injured kenek innawa me gedara.,medical aid,original,ඉන්ජුරේඩ් කෙනෙක් ඉන්නවා මේ ගෙදර.
+ikmnata ambulance ekak onee.,medical aid,synthetic,ඉක්මනට එම්බුලන්ස් එකක් ඕනේ.
+please send rescuee theam.,rescue/missing,synthetic,please send rescuee tham.
+ape fmily eka homeless wela.,shelter,synthetic,අපේ ෆිම්ලයි එක homeless වෙලා.
+safe building ecak one immediately.,shelter,synthetic,safe building ecak one immediately.
+mge gedhara kenek unkonscious wela.,medical aid,synthetic,මගේ ගෙදර කෙනෙක් unconscious වෙලා.
+phone battery lw.,other,synthetic,Phone battery ලව්.
+beheth gnna pharmacy ekata yanna ba.,medical aid,synthetic,බෙහෙත් ගන්න pharmacy එකට යන්න බැ.
+food one please.,food/water,synthetic,food one please.
+knna foodh tikak hoyala denna.,food/water,synthetic,කන්න ෆෝඩ් ටිකක් හොයලා දෙන්න.
+"rike, dhal saha waater one.",food/water,synthetic,"රිකී, දළ සහ වතුර ඕනේ."
+roadh eka clear karanna help one.,other,synthetic,රෝඩ් එක clear කරන්න help one.
+shelter ekak denna puluwanda?,shelter,original,ෂෙල්ටර් එකක් දෙන්න පුලුවන්ද?
+safe place ekak hoyala denna.,shelter,synthetic,safe place එකක් හොයලා දෙන්න.
+bonna watra naa.,food/water,synthetic,බොන්න වතුර නෑ.
+apee gedaraa water ne.,food/water,synthetic,අපේ ගෙදර වතුර නෑ.
+rain eka nisa shelter one.,shelter,original,රයන් එක නිසා ෂෙල්ටර් ඕනේ.
+genral supplies tikak one.,other,synthetic,ජෙනරල් ප්ලෝවේස් ටිකක් ඕනේ.
+ape amma hoy gnn ba.,rescue/missing,synthetic,අපේ අම්ම හොය ගන්න බැ.
+flood eka nisa trapped wela.,rescue/missing,synthetic,ෆ්ලෝඩ් එක නිසා trapped වෙලා.
+drinking wter hoyaganna b.,food/water,synthetic,drinking වතුර හොයාගන්න බැ.
+road eka clear karanna help one.,other,original,road එක clear කරන්න help one.
+please me thanata help ekak denna.,other,original,please මේ තැනට හවුල් එකක් දෙන්න.
+medical suupport ekk one please.,medical aid,synthetic,medical suupport එක්ක one please.
+rooad eka block wela.,other,synthetic,රෝඩ් එක බ්ලූක් වෙලා.
+ambulance ekaak ewanna pleasee.,medical aid,synthetic,ඔම්බුලන්ස් එකක් එවන්න පොලෝවේ.
+me area eke rescue team ekak on.,rescue/missing,synthetic,මේ area එකේ rescue team එකක් ඕන.
+"old people innawa, safe place one.",shelter,original,"old people ඉන්නවා, safe place one."
+"api 6 denek inne, kama one.",food/water,synthetic,"අපි 6 දෙනෙක් ඉන්නේ, කෑම ඕනේ."
+medical team ecak ewann puluwanda?,medical aid,synthetic,medical team ecak ෙවන්න පුලුවන්ද?
+water bottle ekak wath ne.,food/water,original,water bottle එකක් වත් නෑ.
+beheth ganna pharmacy ekata yanna baa.,medical aid,synthetic,බෙහෙත් ගන්න pharmacy එකට යන්න බෑ.
+rescue boat ekak one.,rescue/missing,original,rescue බෝට් එකක් ඕනේ.
+blod one urgnt please.,medical aid,synthetic,blood one urgnt please.
+cooking kranna ba.,other,synthetic,cooking කරන්න බැ.
+"rice, dhal saha water one.",food/water,synthetic,"රිසි, දළ සහ water ඕනේ."
+injured kenek innawa me gedar.,medical aid,synthetic,ඉන්ජුරේඩ් කෙනෙක් ඉන්නවා මේ ගෙදර.
+m area eke rescue team ekak one.,rescue/missing,synthetic,ම area එකේ rescue team එකක් ඕනේ.
+missing knek gena informatin thiyenawada?,rescue/missing,synthetic,missing කෙනෙක් ගැන informatin තියෙනවද?
+gedara roof eka damage wela.,shelter,synthetic,ගෙදර රෝෆ් එක damage වෙලා.
+ape family eke kenekta medical help one.,medical aid,original,අපේ පවුලේ එකේ කෙනෙක්ට medical help one.
+reskue team eka me pathth enawada?,rescue/missing,synthetic,රැස්කී ටේම් එක මේ පැත්ත එනවද?
+cama ookm tika iwara wela.,food/water,synthetic,කෑම ඕකම් ටික ඉවර වෙලා.
+current eka ne me aarea eke.,other,synthetic,current එක නෑ මේ ආරේ එකේ.
+kenek watura gihin missing.,rescue/missing,original,කෙනෙක් වතුර ගිහින් මස්සින්ගෙ.
+foood relief centher eka koheda?,food/water,synthetic,ෆූඩොඩ් රේලිෆේෆ් සෙන්තර් එක කොහෙද?
+current eca ikmanata denna.,other,synthetic,current ඒකා ඉක්මනට දෙන්න.
+beheth iwara wel.,medical aid,synthetic,බෙහෙත් ඉවර වෙලා.
+arakshitha kandaurat ynna transpoort one.,shelter,synthetic,ආරක්ෂිත කඳුරට යන්න transpoort ඕනේ.
+me area ekata yannaa puluwanda?,other,synthetic,මේ area එකට යන්න පුලුවන්ද?
+buuilding eka inspecth karanna one.,other,synthetic,buuilding එක inspecth කරන්න ඕනේ.
+phone battery lov.,other,synthetic,phone battery lov.
+rod clearance help one.,other,synthetic,රෝඩ් clearance help one.
+ape amma hoy gnn ba.,rescue/missing,synthetic,අපේ අම්ම හොය ගන්න බැ.
+clean wter one please.,food/water,synthetic,clean wter one please.
+baby food one urgent.,food/water,original,baby food one urgent.
+apee area ekata dry rations oone.,food/water,synthetic,අපේ area එකට dry rations ඕනේ.
+information ekak hoyaganna one.,other,original,information එකක් හොයාගන්න ඕනේ.
+shelther ekta family eka aran yanna.,shelter,synthetic,shelther එකට family එක අරන් යන්න.
+flooded area eke stuck wela.,rescue/missing,original,flooded area එකේ stuck වෙලා.
+family 6 denekta shelter one.,shelter,synthetic,family 6 දෙනෙකුට shelter ඕනේ.
+ape famly mmbers trapped wela.,rescue/missing,synthetic,අපේ ෆොම්ලයි mmbers trapped වෙලා.
+baby milk saha food one.,food/water,original,baby milk සහ food one.
+elderly kenektha help one.,medical aid,synthetic,elderly කෙනෙක්ට help ඕනේ.
+famly membersla dennek missing.,rescue/missing,synthetic,famly membersla දෙන්නෙක් missing.
+blood one urgent please.,medical aid,synthetic,blood one urgent please.
+mge gedara kenek unconscious wela.,medical aid,original,මගේ ගෙදර කෙනෙක් unconscious වෙලා.
+tree tika ain karanna one.,other,original,ට්රේ ටික අයින් කරන්න ඕනේ.
+safe building eekak on immediately.,shelter,synthetic,safe building ඒකක on immediately.
+ap gedara damage wela.,shelter,synthetic,අපි ගෙදර damage වෙලා.
+transport help one.,other,original,transport help one.
+ap gedaara food na.,food/water,synthetic,අපි ගෙදර ෆෝඩ් නැ.
+elderly person kenek missing.,rescue/missing,original,elderly person කෙනෙක් missing.
+electricity supply eka nati weela.,other,synthetic,electricity supply එක නැති වේලා.
+doctor keenek me paththata one.,medical aid,synthetic,ඩොක්ටර් චීනෙක් මේ පැත්තට ඕනේ.
+me area ekata ynna puluwanda?,other,synthetic,මේ area එකට යන්න පුලුවන්ද?
+missing child cenek hoyanawa.,rescue/missing,synthetic,missing child cenek හොයනවා.
+wessa nisa gdara innatha ba.,shelter,synthetic,වැස්ස නිසා ගෙදර ඉන්නත බැ.
+family ekataa safe plaace one.,shelter,synthetic,family එකට safe plaace one.
+child kenek hoyaganna one.,rescue/missing,original,child කෙනෙක් හොයාගන්න ඕනේ.
+drinking water supply karanna.,food/water,original,drinking water supply කරන්න.
+shelter ecak open karalda?,shelter,synthetic,ෂෙල්ටර් ecak open කරලද?
+hospital transpoort one.,medical aid,synthetic,hospital transpoort one.
+kids la hungry inne.,food/water,original,kids la hungry ඉන්නේ.
+me thanata ambulance ekak ewanna.,medical aid,original,මේ තැනට එම්බුලන්ස් එකක් එවන්න.
+"laamai innawa, safe place one.",shelter,synthetic,"ලාමී ඉන්නවා, safe place one."
+floood eka nisa trapped wela.,rescue/missing,synthetic,ෆ්ලෝඩ් එක නිසා trapped වෙලා.
+ptient kenekta immediate hlp one.,medical aid,synthetic,පැත්තෙන් කෙනෙක්ට immediate හල්ප ඕනේ.
+"rice, dhal saha water one.",food/water,original,"රිසි, දළ සහ water ඕනේ."
+safe buildhing ekak hoyanna onee.,shelter,synthetic,සෆේ බිල්ලීන්ගෙ එකක් හොයන්න ඕනේ.
+rescue help denna puluwanda?,rescue/missing,synthetic,rescue help දෙන්න පුලුවන්ද?
+shelter support onee.,shelter,synthetic,shelter support ඕනේ.
+sick patient kenek rescue karanna one.,medical aid,original,sick patient කෙනෙක් rescue කරන්න ඕනේ.
+faamily mmbersla dennek missing.,rescue/missing,synthetic,ෆාමිලයි මම්බර්ස්ලා දෙන්නෙක් මස්සින්ගෙ.
+paatient cenek stuck wela.,medical aid,synthetic,පාටීන්ට සෙනෙක් ස්ටූක්ක් වෙලා.
+bheth iwar wela.,medical aid,synthetic,බෙහෙත් ඉවර වෙලා.
+api dan safe place ekak hoyanava.,shelter,synthetic,අපි දැන් safe place එකක් හොයනවා.
+blankets tiikak one.,other,synthetic,blankets ටිකක් ඕනේ.
+ape gedara unsfe welaa.,shelter,synthetic,අපේ ගෙදර උණුෆේ වෙලා.
+me area ek situation eka kohomada?,other,synthetic,මේ area එක situation එක කොහොමද?
+ape gedara unsaf welaa.,shelter,synthetic,අපේ ගෙදර උන්සෆ් වෙලා.
+api food nathiwa inne.,food/water,original,අපි ෆෝඩ් නැතිව ඉන්නේ.
+ape gedara damage wel.,shelter,synthetic,අපේ ගෙදර damage වෙලා.
+patient kenekta immediate help one.,medical aid,original,patient කෙනෙක්ට immediate help one.
+wessa nsa gedaara innata ba.,shelter,synthetic,වැස්ස නිසා ගෙදර ඉන්නට බැ.
+"ape gedarata watura gihin, ikmnt apiwa beragnn enn .",shelter,original,"අපේ ගෙදරට වතුර ගිහින්, ඉක්මනට අපිව බේරගන්න එන්න."
+cuurrent eka ne me area eke.,other,synthetic,cuurrent එක නෑ මේ area එකේ.
+rescue tam eca me paththe enawada?,rescue/missing,synthetic,rescue තාම ඒක මේ පැත්තේ එනවද?
+current eka tiyenne ne.,other,synthetic,current එක තියෙන්නෙ නෑ.
+road eka break wela.,other,original,රෝඩ් එක break වෙලා.
+medicine saha doctor heelp one.,medical aid,synthetic,medicine සහ doctor ගේලපු ඕනේ.
+transport ekak one.,other,synthetic,transport එකක් ඕනේ.
+famiily membersla dennek missing.,rescue/missing,synthetic,ෆැමීලියො membersලා දෙන්නෙක් මස්සින්ගෙ.
+ape gedara ptient kenek innawa.,medical aid,synthetic,අපේ ගෙදර පැත්තෙන් කෙනෙක් ඉන්නවා.
+current eka ikmanata dnna.,other,synthetic,current එක ඉක්මනට දෙන්න.
+arakshitha kandaurat ynna thransport one.,shelter,synthetic,ආරක්ෂිත කඳුරට යන්න thransport ඕනේ.
+mee ara eke safe shelter thiyenawada?,shelter,synthetic,මේ අර එකේ safe shelter තියෙනවද?
+"aapi stuck wela, help karanna.",rescue/missing,synthetic,"ආපි ස්ටූක්ක්ක් වෙලා, හවුල් කරන්න."
+rescue team eca me paththe enawadha?,rescue/missing,synthetic,rescue team eca මේ පැත්තේ එනවද?
+bathtery charge karaganna ba.,other,synthetic,bathtery charge කරගන්න බැ.
+watura bottle thikak one.,food/water,synthetic,වතුර බෝට්ටලේ ටිකක් ඕනේ.
+urgeently safe place ekk one.,shelter,synthetic,urgeently safe place එක්ක ඕනේ.
+food relif ekak one.,food/water,synthetic,ෆෝඩ් රේලිෆ් එකක් ඕනේ.
+wessa nisa gdara innata ba.,shelter,synthetic,වැස්ස නිසා ගෙදර ඉන්නට බැ.
+ape brother missing wla.,rescue/missing,synthetic,අපේ brother missing වල.
+drinking water hoyaganna baa.,food/water,synthetic,drinking water හොයාගන්න බෑ.
+roadh eka block weela.,other,synthetic,රෝඩ් එක බ්ලූක් වේලා.
+tuwal una ay innawa.,medical aid,synthetic,තුවාල උන අය ඉන්නවා.
+flood ek nsa trapped wela.,rescue/missing,synthetic,ෆ්ලෝඩ් එක නිසා trapped වෙලා.
+rooad clearance help onee.,other,synthetic,රෝද කුලිරන්සේ හවුල් ඕනේ.
+rescue team ekk ewannaa please.,rescue/missing,synthetic,rescue team එක්ක එවන්නා please.
+baaby cenek sick wela innwa .,medical aid,synthetic,බාබායි සීනේක් සිකුක් වෙලා ඉන්නවා.
+ape phne charge karanna ba.,other,synthetic,අපේ පුහුණේ charge කරන්න බැ.
+shelter ekatha family eka aran yanna.,shelter,synthetic,ෂෙල්ටර් එකට පවුලෙ එක අරන් යන්න.
+santary items one.,other,synthetic,සන්තාරය items one.
+medical support ekk on please.,medical aid,synthetic,medical support එක්ක on please.
+"patient kenek innawa, medical help one.",medical aid,original,"patient කෙනෙක් ඉන්නවා, medical help one."
+"api stuck wela, help karanna.",rescue/missing,original,"අපි ස්ටූක්ක්ක් වෙලා, හවුල් කරන්න."
+rscue boat ekak one.,rescue/missing,synthetic,rscue බෝට් එකක් ඕනේ.
+gedara athule aaya innawa.,rescue/missing,synthetic,ගෙදර ඇතුලේ ඇය ඉන්නවා.
+ape putha hoyaganna one.,rescue/missing,original,අපේ පුතා හොයාගන්න ඕනේ.
+blankets tkak one.,other,synthetic,blankets ටිකක් ඕනේ.
+mdicine nathi nisa amarui.,medical aid,synthetic,මදිකිනේ නැති නිසා අමාරුයි.
+sheltr ekta family eka aran yanna.,shelter,synthetic,ෂෙල්ටර් එකට පවුලෙ එක අරන් යන්න.
+medical team ekk one me area ekatha.,medical aid,synthetic,medical team එක්ක ඕනේ මේ area එකට.
+traansport ekak one.,other,synthetic,traansport එකක් ඕනේ.
+apit dawas dkak knna na.,food/water,synthetic,අපිට දවස් දෙකක් කන්න නැ.
+patient kenek stck wela.,medical aid,synthetic,patient කෙනෙක් සතික්කු වෙලා.
+"ap stuck welaa, help karanna.",rescue/missing,synthetic,"අපි ස්ටූක්ක්ක් වෙලා, හවුල් කරන්න."
+kenk missiing wela.,rescue/missing,synthetic,කෙනෙක් මිස්සීං වෙලා.
+current eka tiyenne ne.,other,synthetic,current එක තියෙන්නෙ නෑ.
+crrent eka tiyenne ne.,other,synthetic,crrent එක තියෙන්නෙ නෑ.
+api evacuate karanna one.,rescue/missing,original,අපි evacuate කරන්න ඕනේ.
+raiin eka nisaa shelter one.,shelter,synthetic,රයින් එක නිසා shelter ඕනේ.
+tree tika ain caranna one.,other,synthetic,ට්රේ ටික අයින් කරන්න ඕනේ.
+api dan safe place ekak hoyanava.,shelter,synthetic,අපි දැන් safe place එකක් හොයනවා.
+road ek open da?,other,synthetic,රෝඩ් එක open ද?
+lamayek hoyaganna help ekk one.,rescue/missing,original,ලමයෙක් හොයාගන්න හයිල් එකක් ඕනේ.
+bilding eka inspct karanna one.,other,synthetic,බිල්ඩින්ග් එක inspct කරන්න ඕනේ.
+api building roof eke inne.,rescue/missing,synthetic,අපි building roof එකේ ඉන්නේ.
+api roof ece inne.,rescue/missing,synthetic,අපි රෝෆ් එකේ ඉන්නේ.
+thuwala una kenek innawa.,medical aid,original,තුවාල උණ කෙනෙක් ඉන්නවා.
+wathura supply eka nawathila.,food/water,synthetic,වතුර පොරොන්දු එක නැවතිලා.
+missing person kenek hoyanawa.,rescue/missing,synthetic,missing person කෙනෙක් හොයනවා.
+gdara athule wayasaka kenek innwa.,rescue/missing,synthetic,ගෙදර ඇතුලේ වයසක කෙනෙක් ඉන්නවා.
+ape gedara patient kenek innava.,medical aid,synthetic,අපේ ගෙදර patient කෙනෙක් ඉන්නවා.
+apiit dawas dekak kanna na.,food/water,synthetic,අපිත් දවස් දෙකක් කන්න නැ.
+dhrinking water supply karanna.,food/water,synthetic,දිරිනිකින්ගෙ water supply කරන්න.
+childh kenek missing.,rescue/missing,synthetic,childh කෙනෙක් missing.
+emergency mediical help deenna.,medical aid,synthetic,emergency mediical help දෙන්න.
+phone network eka kawada enawda?,other,synthetic,phone network එක කවදා එනවද?
+evacuation center ekat yanna onee.,shelter,synthetic,evacuation center එකට යන්න ඕනේ.
+cooking karanna ba.,other,original,cooking කරන්න බැ.
+phone network eka kawada enawada?,other,original,Phone network එක කවදා එනවද?
+meedicine saha doctor help one.,medical aid,synthetic,මේඩීකිනේ සහ ඩොක්ටර් help one.
+fmily ekata temporary plac one.,shelter,synthetic,ෆිම්ලියො ඒකට temporary plac one.
+rescu team ekak ewanna pleas.,rescue/missing,synthetic,rescu team එකක් එවන්න පොලීස්.
+safe accommodaation one please.,shelter,synthetic,safe accommodaation one please.
+mee paththa dhangerous da?,other,synthetic,මේ පැත්ත dangerous ද?
+ape family ek kenekta medical help one.,medical aid,synthetic,අපේ පවුල එක කෙනෙක්ට medical help one.
+urgntly safe place ekk one.,shelter,synthetic,urgntly safe place එක්ක ඕනේ.
+aape ammata asthma medicine one.,medical aid,synthetic,ආපේ අම්මට අස්ථම medicine ඕනේ.
+"ap 6 denek inne, kama one.",food/water,synthetic,"අපි 6 දෙනෙක් ඉන්නේ, කෑම ඕනේ."
+gedara athule wayasaka keneek innawa.,rescue/missing,synthetic,ගෙදර ඇතුලේ වයසක කෙනෙකු ඉන්නවා.
+water bottle eekak wath ne.,food/water,synthetic,water bottle ඒකක වත් නෑ.
+shlter ekak open karaladha?,shelter,synthetic,ෂෙල්ටර් එකක් open කරලද?
+bonna wathura na.,food/water,synthetic,බොන්න වතුර නෑ.
+gedara athule aya beragnn udau krnna .,rescue/missing,original,ගෙදර ඇතුලේ අය බේරගන්න උදවු කරන්න.
+tree ekak road eka uda watila.,other,original,ටොරේ එකක් රෝඩ් එක උඩ වැටිලා.
+eelderly person kenek missiing.,rescue/missing,synthetic,eelderly person කෙනෙක් මිස්සීන්ගෙ.
+ape house eka collapse wnna wage.,shelter,synthetic,අපේ ගෙදර එක කොල්ලපස්සේ වෙන්න වගේ.
+ric sha water one.,food/water,synthetic,රික් ෂා වතුර ඕනේ.
+tree ekaak roaad eka uda watila.,other,synthetic,තිරේ එකක් රෝද එක උඩ වැටිලා.
+ape house eka collapse wenna wage.,shelter,synthetic,අපේ ගෙදර එක කොල්ලපස්සේ වෙන්න වගේ.
+injuredh kenek innwa me gedara.,medical aid,synthetic,ඉන්ජුරේද් කෙනෙක් ඉන්නවා මේ ගෙදර.
+ptrol hoyaganna ba.,other,synthetic,පොරොන්දු හොයාගන්න බැ.
+me area eke situation eka kohomada?,other,synthetic,මේ area එකේ situation එක කොහොමද?
+watura ganna widihak nee.,food/water,synthetic,වතුර ගන්න විදිහක් නේ.
+ape faamily ekee sick aya innawa.,medical aid,synthetic,අපේ ෆාමිලයි එකේ සිකුක් එයා ඉන්නවා.
+blood on urgnt please.,medical aid,synthetic,blood on urgnt please.
+wessa nisa gedaraa innata ba.,shelter,synthetic,වැස්ස නිසා ගෙදර ඉන්නට බැ.
+food supplies tikak one.,food/water,original,food supplies ටිකක් ඕනේ.
+house eka clean karannaa help one.,other,synthetic,house එක clean කරන්න help one.
+me area eke rescue team ekak one.,rescue/missing,original,මේ area එකේ rescue team එකක් ඕනේ.
+safe place eekakata yanna help karanna.,shelter,synthetic,safe place ඒකට යන්න help කරන්න.
+api dan shelter ekak hoyanawa.,shelter,synthetic,අපි දැන් ෂෙල්ටර් එකක් හොයනවා.
+dhrinking water supply karanna.,food/water,synthetic,දිරිනිකින්ගෙ water supply කරන්න.
+lamayata fever thiyeenawa.,medical aid,synthetic,ලමයාට ෆේවර් තියෙනවා.
+water pump eka wadha ne.,other,synthetic,water pump එක වද නෑ.
+ape area ekt viyali ahara ewnn plwnd .,food/water,original,අපේ area එකට වියලි ආහාර එවන්න පුලුවන්ද.
+me paththa dangerous da?,other,original,මේ පැත්ත dangerous ද?
+"old people innawa, safe plake one.",shelter,synthetic,"old people ඉන්නවා, safe plake one."
+ape geedara fod na.,food/water,synthetic,අපේ ගෙදර ෆෝඩ් නැ.
+waturaa ganna widihak ne.,food/water,synthetic,වතුර ගන්න විදිහක් නෑ.
+ape family ekata innaa place ekak one.,shelter,synthetic,අපේ පවුල ඒකට ඉන්නා place එකක් ඕනේ.
+trnsport ecak one.,other,synthetic,trnsport ecak one.
+"rice, dhl saha water on.",food/water,synthetic,"රිසි, දළ සහ water on."
+watura sha knna tikak one.,food/water,synthetic,වතුර සහ කන්න ටිකක් ඕනේ.
+gedaara watura purila.,shelter,synthetic,ගෙදර වතුර පිරිලා.
+gedara watura purila.,shelter,synthetic,ගෙදර වතුර පිරිලා.
+clean wateer one please.,food/water,synthetic,clean wateer one please.
+medical team ekak ewanna puluwanda?,medical aid,original,medical team එකක් එවන්න පුලුවන්ද?
+floodhed area eke stuck wela.,rescue/missing,synthetic,ෆ්ලෝඩ්ඩ් එකේ ස්ටූක්ක්ක් වෙලා.
+ape seeya missing.,rescue/missing,synthetic,අපේ සීයා මිසිටින්ග්.
+food ekak aran enna puluwanda?,food/water,original,ෆෝඩ් එකක් අරන් එන්න පුලුවන්ද?
+safe place ekak hoyala dennaa.,shelter,synthetic,safe place එකක් හොයලා දෙන්නා.
+sanitary items one.,other,original,සින්තරය items one.
+watura bottl tiikak one.,food/water,synthetic,වතුර බෝට්ටල ටිකක් ඕනේ.
+family mmbersla dnnek missing.,rescue/missing,synthetic,family mmbersla දෙන්නෙක් missing.
+tree ekak road ekaa udha watila.,other,synthetic,ටොරේ එකක් රෝඩ් එකා උදා වැටිලා.
+battery charge karaganna ba.,other,original,battery charge කරගන්න බැ.
+fel station open daa?,other,synthetic,ෆේල් ස්ටෝන්ස් ඔප්පු දා?
+ape gedara unsafe wela.,shelter,synthetic,අපේ ගෙදර අපොෆේ වෙලා.
+shelter ekak thiyenawanam kiyaanna.,shelter,synthetic,ෂෙල්ටර් එකක් තියෙනවනම් කියන්න.
+pleasee me thanat help ekak denna.,other,synthetic,පොලී මේ තැනට හවුල් එකක් දෙන්න.
+shelter ekak denna puluwaanda?,shelter,synthetic,ෂෙල්ටර් එකක් දෙන්න පුලුවන්ද?
+ape amma hoy gnn ba.,rescue/missing,synthetic,අපේ අම්ම හොය ගන්න බැ.
+ape nangi ta medicine one.,medical aid,original,අපේ නංගි ට medicine ඕනේ.
+hospital trnsport one.,medical aid,synthetic,hospital trnsport ඕනේ.
+ape area eke inn arakshith thanaak ne.,shelter,synthetic,අපේ area එකේ ඉන්න ආරක්ෂිත තැනක් නෑ.
+gas cylinder eka n.,other,synthetic,ගස් cylinder එක නෑ.
+night eka innat place ne.,shelter,synthetic,නයිට් එක ඉන්නට place නෑ.
+wather supply eka ne.,food/water,synthetic,වතුර පොරොන්දු ඒක නෑ.
+mge amma ta amarui .ambulance ekk ewnn please.,medical aid,original,මගේ අම්ම ට අමාරුයි.ambulance එක්ක එවන්න please.
+patient kenekt immediate help one.,medical aid,synthetic,patient කෙනෙක්ට immediate help one.
+dooctor kenek ikmanata one.,medical aid,synthetic,ඩොක්ටර් කෙනෙක් ඉක්මනට ඕනේ.
+shelteer supporth one.,shelter,synthetic,shelteer supporth one.
+fuel station opn da?,other,synthetic,fuel station opn ද?
+shelter ekak hoyaganna help one.,shelter,synthetic,ෂෙල්ටර් එකක් හොයාගන්න හවුල් ඕනේ.
+night eka innata plce ne.,shelter,synthetic,නයිට් එක ඉන්නට පොලිසෙ නෑ.
+water tank eca damage wela.,food/water,synthetic,water tank eca damage වෙලා.
+please send rescue team.,rescue/missing,original,please send rescue team.
+safe accommodathion one please.,shelter,synthetic,safe accommodation one please.
+"ape gedarata wathura gihin, ikmnt apiwa beragnn enn .",shelter,synthetic,"අපේ ගෙදරට වතුර ගිහින්, ඉක්මනට අපිව බේරගන්න එන්න."
+me area eke safe shelter thiyenawada?,shelter,synthetic,මේ area එකේ safe shelter තියෙනවද?
+food supplies one urgently.,food/water,synthetic,food supplies one urgently.
+missing child cenek hoyanawa.,rescue/missing,synthetic,missing child cenek හොයනවා.
+ape putha hoyganna one.,rescue/missing,synthetic,අපේ පුතා හොයාගන්න ඕනේ.
+kenek waturat gahaagen ghin.,rescue/missing,synthetic,කෙනෙක් වතුරට ගුහාගෙන ගිහින්.
+shelter support one.,shelter,original,shelter support one.
+flashlight ekak one.,other,original,flashlight එකක් ඕනේ.
+main roaad eka wathurat yata wel.,other,synthetic,මයින් රෝඩ් එක වතුරට යට වෙලා.
+medical team ekak one me ara ekata.,medical aid,synthetic,medical team එකක් ඕනේ මේ අර එකට.
+safe accommodation one please.,shelter,original,safe accommodation one please.
+ape area ekt viyali ahara ewnn plwnd .,food/water,synthetic,අපේ area එකට වියලි ආහාර එවන්න පුලුවන්ද.
+please send rescue theam.,rescue/missing,synthetic,please send rescue tham.
+mdicine tkak hoyaganna ba.,medical aid,synthetic,මදිකිනේ ටිකක් හොයාගන්න බැ.
+baby foood one urgeent.,food/water,synthetic,baby foood one urgeent.
+me area eke safe shelter thiyenawada?,shelter,original,මේ area එකේ safe shelter තියෙනවද?
+ape seeeya missing.,rescue/missing,synthetic,අපේ සීයා මිසිටින්ග්.
+ape nangi hoyaganna ba.,rescue/missing,original,අපේ නංගි හොයාගන්න බැ.
+please rescuee karnna.,rescue/missing,synthetic,please rescuee කරන්න.
+safe buildiing ekak hoyanna one.,shelter,synthetic,සාෆේ බිලීඩිං එකක් හොයන්න ඕනේ.
+aapi foodh nathiwa inne.,food/water,synthetic,ආපි ෆෝද් නැතිව ඉන්නේ.
+watura ganna wdihak ne.,food/water,synthetic,වතුර ගන්න විදිහක් නෑ.
+safe driinking water one.,food/water,synthetic,safe driinking water one.
+drinking water natiwa inne.,food/water,synthetic,drinking water නැතිව ඉන්නේ.
+me area eke saafe shelter thiyenawada?,shelter,synthetic,මේ area එකේ saafe shelter තියෙනවද?
+food ecak arn enna puluwanda?,food/water,synthetic,ෆෝඩ් ඇකක් අරන් එන්න පුලුවන්ද?
+please send rescue tem.,rescue/missing,synthetic,please send rescue them.
+kanna dheyak hoyaganna ba.,food/water,synthetic,කන්න දෙයක් හොයාගන්න බැ.
+gedara thiyenna baa.,shelter,synthetic,ගෙදර තියෙන්න බෑ.
+rescue booat ekak on.,rescue/missing,synthetic,rescue boat එකක් ඕන.
+clean water one please.,food/water,original,clean water one please.
+family ekata safe place onee.,shelter,synthetic,family එකට safe place ඕනේ.
+road conditon eka dannawada?,other,synthetic,road conditon එක දන්නවද?
+aapi dan shelter ekak hoyanawa.,shelter,synthetic,ආපි දැන් ෂෙල්ටර් එකක් හොයනවා.
+water bottle ekak wath n.,food/water,synthetic,water bottle එකක් වත් නැ.
+petrol hoyagannaa ba.,other,synthetic,පීරන් හොයාගන්න බැ.
+ape puutha tuwala wela.,medical aid,synthetic,අපේ පුතා තුවාල වෙලා.
+medical emergeency ecak.,medical aid,synthetic,medical emergeency ecak.
+ape ammata asthma medicine one.,medical aid,original,අපේ අම්මට අස්ථම medicine ඕනේ.
+rod ek open da?,other,synthetic,රෝඩ් එක open ද?
+ape putha thuwala wla.,medical aid,synthetic,අපේ පුතා තුවාල වෙලා.
+elderly keenekta help one.,medical aid,synthetic,elderly keenekta help one.
+"ap stuck wela, help karanna.",rescue/missing,synthetic,"අපි ස්ටූක්ක්ක් වෙලා, හවුල් කරන්න."
+currenth eka ikmanata denn.,other,synthetic,වෘත් එක ඉක්මනට දෙන්න.
+me pattha dangerous dha?,other,synthetic,මේ පැත්ත dangerous ද?
+thuwala un kenek innawa.,medical aid,synthetic,තුවාල උන් කෙනෙක් ඉන්නවා.
+watura ganna widihak ne.,food/water,original,වතුර ගන්න විදිහක් නෑ.
+food supplies thikak one.,food/water,synthetic,food supplies ටිකක් ඕනේ.
+drinking water natiwa inne.,food/water,synthetic,drinking water නැතිව ඉන්නේ.
+api evacuaate karanna one.,rescue/missing,synthetic,අපි evacuaate කරන්න ඕනේ.
+riice saha water one.,food/water,synthetic,riice සහ water one.
+ape nngi hoyaganna b.,rescue/missing,synthetic,අපේ නංගි හොයාගන්න බැ.
+patient kenekta medicine ne.,medical aid,original,patient කෙනෙක්ට medicine නෑ.
+communication center ekak thiyenawada?,other,original,communication center එකක් තියෙනවද?
+building ekaa inspect caranna one.,other,synthetic,building එකා inspect කරන්න ඕනේ.
+geedara thiyeenna ba.,shelter,synthetic,ගේදර තියෙන්න බෑ.
+food relief ekak one.,food/water,original,food relief එකක් ඕනේ.
+blood one urgent please.,medical aid,original,blood one urgent please.
+thuwal una aya innawa.,medical aid,original,තුවාල උණ එයා ඉන්නවා.
+medical team ecak one me area ekat.,medical aid,synthetic,medical team ecak one මේ area එකට.
+road eka block wela.,other,original,රෝඩ් එක බ්ලූක් වෙලා.
+raain eka nisa shelter one.,shelter,synthetic,රායින් එක නිසා ෂෙල්ටර් ඕනේ.
+ape gedara wter ne.,food/water,synthetic,අපේ ගෙදර වතුර නෑ.
+tree tik ain karanna one.,other,synthetic,ට්රේ ටික අයින් කරන්න ඕනේ.
+aape gedara athule dhanger.,shelter,synthetic,ආපු ගෙදර ඇතුලේ දැනගෙ.
+sanitry items one.,other,synthetic,sanitry items one.
+clothes thikak one.,other,synthetic,clothes ටිකක් ඕනේ.
+foood one pleasee.,food/water,synthetic,ෆූඩොඩ් ඕනේ ෆූඩො.
+ape thththa miissing.,rescue/missing,synthetic,අපේ තාත්තා මිස්සින්ගෙ.
+safe place ekaak hoyalaa denna.,shelter,synthetic,safe place එකක් හොයලා දෙන්න.
+gedara athule wayasaka cenek iinnawa.,rescue/missing,synthetic,ගෙදර ඇතුලේ වයසක සිහිනෙක් ඉන්නවා.
+min road eka waturat yatha wel.,other,synthetic,මින් රෝඩ් එක වතුරට යතා වේල.
+cenek hoyaganna ba dn.,rescue/missing,synthetic,චෙනෙක් හොයාගන්න බැ දැන්.
+food and clean water help one.,food/water,original,food and clean water help one.
+apit wiyali ahara ewnn .,food/water,synthetic,අපිට වියලි ආහාර එවන්න.
+kids la huungry inn.,food/water,synthetic,kids ල හූංගිරය ඉන්න.
+rescue vehicle ekaak one.,rescue/missing,synthetic,rescue vehicle එකක් ඕනේ.
+doctoor kenek me paththata one.,medical aid,synthetic,ඩොක්ටෝර් කෙනෙක් මේ පැත්තට ඕනේ.
+apit dawas dhekak kanna naa.,food/water,synthetic,අපිට දවස් දෙකක් කන්න නෑ.
+api dan safe place ekak hoyanawa.,shelter,original,අපි දැන් safe place එකක් හොයනවා.
+teemporary shelter ekak one.,shelter,synthetic,teemporary shelter එකක් ඕනේ.
+drinking water nathiwa inne.,food/water,original,drinking water නැතිව ඉන්නේ.
+road condition ek dannawada?,other,synthetic,road condition එක දන්නවද?
+roadh clearance help on.,other,synthetic,රෝද ක්ලෙරන්සේ හවුල් ඔන.
+me pathth dangerous da?,other,synthetic,මේ පැත්ත dangerous ද?
+canna deyak ne me gedara.,food/water,synthetic,කන්න දෙයක් නෑ මේ ගෙදර.
+hospital trnsport one.,medical aid,synthetic,hospital trnsport ඕනේ.
+kanna deyak hoyaganna ba.,food/water,synthetic,කන්න දෙයක් හොයාගන්න බැ.
+water supply eca ne.,food/water,synthetic,water supply eca ne.
+drinking watr supply karanna.,food/water,synthetic,drinking වතුර supply කරන්න.
+shlter support one.,shelter,synthetic,shlter support one.
+temporary shelter ekak one.,shelter,original,temporary shelter එකක් ඕනේ.
+me area ek safe shelther thiyenawada?,shelter,synthetic,මේ area එක safe shelther තියෙනවද?
+eldherly person kenek missing.,rescue/missing,synthetic,eldherly person කෙනෙක් missing.
+shelter ekak open karalada?,shelter,synthetic,ෂෙල්ටර් එකක් open කරලද?
+ape nangi tham awe na.,rescue/missing,synthetic,අපේ නංගි තාම ආවේ නැ.
+emergency medical help denna.,medical aid,original,emergency medical help දෙන්න.
+medcine saha docthor help one.,medical aid,synthetic,medcine සහ docthor help one.
+food supplis tikak onee.,food/water,synthetic,food supplis ටිකක් ඕනේ.
+ape ammata asthmaa medicine one.,medical aid,synthetic,අපේ අම්මට අස්ථමා medicine ඕනේ.
+gas cylindeer eka na.,other,synthetic,ගස් cylindeer එක නෑ.
+safe place ekak one please api yata wel.,shelter,original,safe place එකක් one please අපි යට වෙලා.
+watuura supply eka nawathila.,food/water,synthetic,උඹවිරා පොරොන්දු ඒක නැවතිලා.
+please medical teeam ekak hoyal denna.,medical aid,synthetic,please medical ටීඑම් එකක් හොයල දෙන්න.
+current eka thiyenne ne.,other,original,current එක තියෙන්නේ නෑ.
+driinking water urgntly one.,food/water,synthetic,driinking water urgntly one.
+apt arkshitha thankt yanna one.,shelter,synthetic,අපිට ආරක්ෂිත තැනකට යන්න ඕනේ.
+ape famly eka homeless wel.,shelter,synthetic,අපේ ෆොම්ලයි එක homeless වෙලා.
+kanna deyak hoyaganna ba.,food/water,original,කන්න දෙයක් හොයාගන්න බැ.
+flashlight ekak oone.,other,synthetic,flashlight එකක් ඕනේ.
+kidhs la hungry inne.,food/water,synthetic,කෙදිසි ලා හංගිරය ඉන්නෙ.
+water pump eka wada ne.,other,original,water pump එක වඩා නෑ.
+rescue vehiclee eekak one.,rescue/missing,synthetic,rescue vehicule ඒකක ඕනේ.
+watura sahaa knna tikak one.,food/water,synthetic,වතුර සහා කන්න ටිකක් ඕනේ.
+ikmanata ambulance ekak one.,medical aid,original,ඉක්මනට එම්බුලන්ස් එකක් ඕනේ.
+lamaya school idala aw ne.,rescue/missing,synthetic,ළමයා school ඉදලා ආව නේ.
+ape brother missing wla.,rescue/missing,synthetic,අපේ brother missing වල.
+me thanata aambulance ekak ewanna.,medical aid,synthetic,මේ තැනට ආම්බුලන්ස් එකක් එවන්න.
+apit kanna bonna dewal ne.,food/water,original,අපිට කන්න බොන්න දේවල් නෑ.
+kanna deyak hoyaganna baa.,food/water,synthetic,කන්න දෙයක් හොයාගන්න බෑ.
+clothes tikak one.,other,original,clothes ටිකක් ඕනේ.
+patient kenekta immediate help one.,medical aid,synthetic,patient කෙනෙක්ට immediate help one.
+kids la huungry inne.,food/water,synthetic,kids ල හූංගිරය ඉන්නේ.
+sheltr ekak thiyenawanam kiiyanna.,shelter,synthetic,ෂෙල්ටර් එකක් තියෙනවනම් කියන්න.
+lamaya schol idala awe n.,rescue/missing,synthetic,ළමයා ෂෝල් ඉදලා ආවේ නැ.
+kanna deyak ne me gedara.,food/water,original,කන්න දෙයක් නෑ මේ ගෙදර.
+lamai godak innwa apit kama parkel tkk ewnn plwnd .,food/water,synthetic,ළමයි ගොඩක් ඉන්නවා අපිට කෑම පරකැල ටිකක් එවන්න පුලුවන්ද.
+transpoort help one.,other,synthetic,transpoort help one.
+food supples tikak one.,food/water,synthetic,food supples ටිකක් ඕනේ.
+doctor kenek ikmanata one.,medical aid,original,ඩොක්ටර් කෙනෙක් ඉක්මනට ඕනේ.
+baby clothes one.,other,original,baby clothes one.
+house eca clean karanna help one.,other,synthetic,house eca clean කරන්න help one.
+ambulance ekak ewanna please.,medical aid,original,ambulance එකක් එවන්න please.
+safe room ecak one.,shelter,synthetic,safe room ecak one.
+gedara athule 5 denek innawa.,rescue/missing,synthetic,ගෙදර ඇතුලේ 5 දෙනෙක් ඉන්නවා.
+food and clen water help one.,food/water,synthetic,food and clen water help one.
+ape ammta asthma medicine one.,medical aid,synthetic,අපේ අම්මට අස්ථම medicine ඕනේ.
+api dan safe plce ekak hyanawa.,shelter,synthetic,අපි දැන් safe plce එකක් හොයනවා.
+house eka clean karnna help one.,other,synthetic,house එක clean කරන්න help one.
+thuwala una kenk innawa.,medical aid,synthetic,තුවාල උණ කෙනෙක් ඉන්නවා.
+ap family eka homeless wel.,shelter,synthetic,අපි පවුල එක homeless වේල.
+safe place ekak one plase api yatha wel.,shelter,synthetic,safe place එකක් ඕනේ පලාසේ අපි යතා වෙලා.
+shelter ekak open karalada?,shelter,original,ෂෙල්ටර් එකක් open කරලද?
+thuwala una keenek innaw.,medical aid,synthetic,තුවාල උණ කාන්තාවෙක් ඉන්නව.
+chiild kenek hoyaganna one.,rescue/missing,synthetic,චීල්ඩ් කෙනෙක් හොයාගන්න ඕනේ.
+generaal supplies thikak one.,other,synthetic,general supplies තිකකක් ඕනේ.
+api building roof eke inne.,rescue/missing,original,අපි building roof එකේ ඉන්නේ.
+gedara thiiyenna ba.,shelter,synthetic,ගෙදර තියෙන්න බැ.
+communiction center ekak thiiyenawada?,other,synthetic,communiction center එකක් තියෙනවද?
+tuwala walata bandage one.,medical aid,synthetic,තුවාල වලට බැඳගේ ඕනේ.
+api upakara balaporoththu wenawa.,rescue/missing,synthetic,අපි උපකාර බලාපොරොත්තු වෙනවා.
+baby milk saha food on.,food/water,synthetic,baby milk සහ food on.
+flood ek nisa trappeed wela.,rescue/missing,synthetic,ෆ්ලෝඩ් එක නිසා තිරපේඩ් වෙලා.
+transport heelp one.,other,synthetic,transport help one.
+ape area ekt viiyali ahara ewnn plwnd .,food/water,synthetic,අපේ area එකට වියලි ආහාර එවන්න පුලුවන්ද.
+clean wateer available da?,food/water,synthetic,clean wateer available ද?
+road eka break wla.,other,synthetic,රෝඩ් එක break වෙලා.
+food supplies one urgently.,food/water,original,food supplies one urgently.
+"lamai innaw, safe place on.",shelter,synthetic,"ළමයි ඉන්නව, safe place on."
+ape nang thama awe na.,rescue/missing,synthetic,අපේ නංගි තාම ආවේ නැ.
+bonna wtura na.,food/water,synthetic,බොන්න වතුර නෑ.
+ape putha thuwala welaa.,medical aid,synthetic,අපේ පුතා තුවාල වෙලා.
+food and clean wather help one.,food/water,synthetic,food and clean wather help one.
+saf drinking wter one.,food/water,synthetic,සෆි drinking වතුර ඕනේ.
+battery kharge karaganna ba.,other,synthetic,බැට්ටර්යි කොහර්ගෙ කරගන්න බැ.
+"watura godak wedhi, reskue one.",rescue/missing,synthetic,"වතුර ගොඩක් වැඩි, රැස්කූ ඕනේ."
+me thanata ambulaance ekak ewanna.,medical aid,synthetic,මේ තැනට අම්බුලන්ස් එකක් එවන්න.
+baby milk sah food one.,food/water,synthetic,baby milk සහ food one.
+ape puutha hyaganna one.,rescue/missing,synthetic,අපේ පුතා හොයාගන්න ඕනේ.
+"old people innawa, safee place one.",shelter,synthetic,"old people ඉන්නවා, සෆේ place one."
+ape family eke sicc aya innawa.,medical aid,synthetic,අපේ පවුල එකේ සිෆික් එයා ඉන්නවා.
+family 6 denekta shelter one.,shelter,synthetic,family 6 දෙනෙකුට shelter ඕනේ.
+rescue help denna puluwandha?,rescue/missing,synthetic,rescue help දෙන්න පුලුවන්ද?
+curreent eka ne me area eeke.,other,synthetic,කුරුරේන්ට ඒක නෑ මේ area ඒකේ.
+ikmanat ambulance ekak onee.,medical aid,synthetic,ඉක්මනට එම්බුලන්ස් එකක් ඕනේ.
+mee area ekataa yanna puluwanda?,other,synthetic,මේ area එකට යන්න පුලුවන්ද?
+road eeka break wela.,other,synthetic,රෝඩ් ඒක break වෙලා.
+safe placee ekaak one please api yata wel.,shelter,synthetic,safe placee එකක one please අපි යට වෙලා.
+geeneral supplies thikak one.,other,synthetic,geeneral supplies ටිකක් ඕනේ.
+wessa nisa gedara innata ba.,shelter,original,වැස්ස නිසා ගෙදර ඉන්නට බැ.
+foood relief center eca koheda?,food/water,synthetic,ෆෝඔඩ් relief center eca කොහෙද?
+ape brother mssing wela.,rescue/missing,synthetic,අපේ brother මස්සින්ගෙ වෙලා.
+api roof eeke inne.,rescue/missing,synthetic,අපි රෝෆ් එකේ ඉන්නේ.
+medhicine tikak hoyaganna ba.,medical aid,synthetic,මැඩීකිනේ ටිකක් හොයාගන්න බැ.
+kenek missing wela.,rescue/missing,synthetic,කෙනෙක් මිස්සින්ගෙ වෙලා.
+family ekata themporary place on.,shelter,synthetic,family එකට themporary place on.
+lamaya school idala awe ne.,rescue/missing,original,ළමයා school ඉදලා ආවේ නැ.
+ape gedara waater ne.,food/water,synthetic,අපේ ගෙදර වතුරෙ නෑ.
+ikmnata ambulance ekak one.,medical aid,synthetic,ඉක්මනට එම්බුලන්ස් එකක් ඕනේ.
+blankts tikak one.,other,synthetic,blankts ටිකක් ඕනේ.
+ape famiily eke sick ay innawa.,medical aid,synthetic,අපේ ෆමයිලයි එකේ සිිකික් අය ඉන්නවා.
+rice tiikak hari ewanna.,food/water,synthetic,රිස් ටිකක් හරි එවන්න.
+ape family eke sick aya innawa.,medical aid,original,අපේ පවුල එකේ සිකුක් එයා ඉන්නවා.
+geeneral suppliees tikak one.,other,synthetic,geeneral suppliees ටිකක් ඕනේ.
+ape brother missing wela.,rescue/missing,original,අපේ brother missing වෙලා.
+baaby clothes one.,other,synthetic,බායි clothes ඕනේ.
+api rooof eke inne.,rescue/missing,synthetic,අපි රෝෆ් එකේ ඉන්නේ.
+safe room ekak one.,shelter,synthetic,safe room එකක් ඕනේ.
+api food nathiiwa inne.,food/water,synthetic,අපි ෆෝඩ් නැතිව ඉන්නේ.
+apit arakshitha thankt yanna one.,shelter,original,අපිට ආරක්ෂිත තැනකට යන්න ඕනේ.
+ape gedara pathient kenek innawa.,medical aid,synthetic,අපේ ගෙදර පැතිනට කෙනෙක් ඉන්නවා.
+clothees tikk one.,other,synthetic,clothees ටිකක් ඕනේ.
+gedara athule ayaa beragnn udhau krnna .,rescue/missing,synthetic,ගෙදර ඇතුලේ එයා බේරගන්න උදවු කරන්න.
+safe room ecak on.,shelter,synthetic,safe room ecak on.
+main roaad eka waturat yata wel.,other,synthetic,මයින් රෝඩ් එක වතුරට යට වෙලා.
+ape putha hoyaganna one.,rescue/missing,synthetic,අපේ පුතා හොයාගන්න ඕනේ.
+ape area ek inn arakshitha thanak ne.,shelter,synthetic,අපේ area එක ඉන්න ආරක්ෂිත තැනක් නෑ.
+"ape gedarata watura gihin, ikmnt apiwa beragnn enn .",shelter,synthetic,"අපේ ගෙදරට වතුර ගිහින්, ඉක්මනට අපිව බේරගන්න එන්න."
+phne network ek kawada enawada?,other,synthetic,පුහුණු network එක කවදා එනවද?
+sheelter ekak denna puluwanda?,shelter,synthetic,ෂීල්ටර් එකක් දෙන්න පුලුවන්ද?
+apii dan shelter ekak hooyanawa.,shelter,synthetic,අපේ දැන් ෂෙල්ටර් එකක් හොයනවා.
+medical officer kenek oone.,medical aid,synthetic,medical officer කෙනෙක් ඕනේ.
+patient kenekta medcine n.,medical aid,synthetic,patient කෙනෙක්ට medcine නැ.
+me area eke situation eka kohomada?,other,synthetic,මේ area එකේ situation එක කොහොමද?
+foodh relief center eka koheda?,food/water,synthetic,ෆෝඩ් relief center එක කොහෙද?
+lamai godak innwa apit kma parcel tkk ewnn plwnd .,food/water,synthetic,ළමයි ගොඩක් ඉන්නවා අපිට කම පරිසෙල් ටිකක් එවන්න පුලුවන්ද.
+flashlight ecak one.,other,synthetic,flashlight ecak one.
+rain eka nisa sheelter on.,shelter,synthetic,රයන් එක නිසා ෂීල්ටර් ඕනි.
+apii upacara balaporoththu wenawa.,rescue/missing,synthetic,අපී උපකාර බලාපොරොත්තු වෙනවා.
+clean water available da?,food/water,original,clean water available ද?
+safe drinking wather one.,food/water,synthetic,safe drinking වතුර ඕනේ.
+safe accommodation one pleas.,shelter,synthetic,safe accommodation one pleas.
+safe accommodation on please.,shelter,synthetic,safe accommodation on please.
+food relief ekak one.,food/water,synthetic,food relief එකක් ඕනේ.
+doctor kenek ikmanat one.,medical aid,synthetic,ඩොක්ටර් කෙනෙක් ඉක්මනට ඕනේ.
+baby kenek sick wela innwa .,medical aid,original,baby කෙනෙක් sick වෙලා ඉන්නවා.
+petrol hoyaganna ba.,other,original,පීරන් හොයාගන්න බැ.
+kenek watura gihin missing.,rescue/missing,synthetic,කෙනෙක් වතුර ගිහින් මස්සින්ගෙ.
+"ape gedarata watura gihin, ikmnt apiwa beragnn enn .",shelter,synthetic,"අපේ ගෙදරට වතුර ගිහින්, ඉක්මනට අපිව බේරගන්න එන්න."
+safe building ecak hoyann one.,shelter,synthetic,safe building ecak හොයන්න ඕනේ.
+rescue boat ekaak ewaanna.,rescue/missing,synthetic,rescue බෝට් එකක් එවන්න.
+docthor cenek contact karanna one.,medical aid,synthetic,ඩොක්ටර් සීනේක් contact කරන්න ඕනේ.
+ape nangi hoyaganna ba.,rescue/missing,synthetic,අපේ නංගි හොයාගන්න බැ.
+food supplies one urgently.,food/water,synthetic,food supplies one urgently.
+"patint kenk innawa, medical help one.",medical aid,synthetic,"පැටිනුත් කෙනෙක් ඉන්නවා, medical help one."
+road condition eka dannawada?,other,original,road condition එක දන්නවද?
+current eca thiyenne ne.,other,synthetic,current ඒකා තියෙන්නෙ නෑ.
+emergency medcal hlp denna.,medical aid,synthetic,emergency medcal හල්ප දෙන්න.
+medical emergency ekak.,medical aid,original,medical emergency එකක්.
+ape area eke inn arakshitha thanak ne.,shelter,synthetic,අපේ area එකේ ඉන්න ආරක්ෂිත තැනක් නෑ.
+apit viyali ahara ewnn .,food/water,synthetic,අපිට වියලි ආහාර එවන්න.
+child keneek hoyaganna one.,rescue/missing,synthetic,child කෙනීෙක් හොයාගන්න ඕනේ.
+ape area ekata dry rations one.,food/water,original,අපේ area එකට dry rations one.
+"wathura godak weedi, rescue one.",rescue/missing,synthetic,"වතුර ගොඩක් වීදි, rescue ඕනේ."
+gedara wathura purila.,shelter,synthetic,ගෙදර වතුර පිරිලා.
+family ekataa teemporary place one.,shelter,synthetic,family එකට teemporary place one.
+sick patient kenek rescue karanna on.,medical aid,synthetic,sick patient කෙනෙක් rescue කරන්න ඕන.
+rike tikaak hari ewanna.,food/water,synthetic,රිකී ටිකක් හරි එවන්න.
+missing peerson cenek hoyanawa.,rescue/missing,synthetic,මිස්සින්ගෙ පීරොන්ස් සීනෙක් හොයනවා.
+driinking water urgently one.,food/water,synthetic,driinking water urgently one.
+patient keneek stuck wela.,medical aid,synthetic,patient කෙනෙකු ස්ටූක්ක්ක් වෙලා.
+safe room ekak one.,shelter,original,safe room එකක් ඕනේ.
+gedara roof eca damage wela.,shelter,synthetic,ගෙදර රෝෆ් ඒකා damage වෙලා.
+ape family eke kenektha medical help one.,medical aid,synthetic,අපේ පවුල එකේ කෙනෙකුට medical help ඕනේ.
+ape family eka homeless wel.,shelter,synthetic,අපේ පවුල එක homeless වේල.
+gedara athule aya beragnn udau krnn .,rescue/missing,synthetic,ගෙදර ඇතුලේ අය බේරගන්න උදවු කරන්න.
+kann deyak ne me gedara.,food/water,synthetic,කන්න දෙයක් නෑ මේ ගෙදර.
+fuel station open daa?,other,synthetic,fuel station open ද?

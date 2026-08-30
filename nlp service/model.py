@@ -4,7 +4,8 @@ import torch
 import torch.nn as nn
 
 NEED_KEYWORDS = ["one", "epa", "please", "ikmanin", "ikmanata", "help",
-                  "urgent", "puluwanda", "asaneepa"]
+                  "urgent", "puluwanda", "asaneepa",
+                  "kadila", "thuwala", "amarui", "ambulance", "doctor", "beheth", "ospital"]
 
 def get_aux_features(text):
     words = text.lower().split()
@@ -14,9 +15,9 @@ def get_aux_features(text):
     return [length_feature, keyword_feature]
 
 class SinglishNeedClassifier(nn.Module):
-    def __init__(self, num_categories=5, aux_feature_dim=2):
+    def __init__(self, base_model_name="xlm-roberta-base", num_categories=5, aux_feature_dim=2):
         super().__init__()
-        base = AutoModel.from_pretrained("xlm-roberta-base")
+        base = AutoModel.from_pretrained(base_model_name)
         lora_config = LoraConfig(
             r=8, lora_alpha=16,
             target_modules=["query", "value"],
